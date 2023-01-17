@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LinkFilter
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ LinkFilter.\r\n\ \r\n\ @author\ pascal\ boestfleisch,\ emma\ ebel\r\n\ @version\ ueb07\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=htmlText
+comment2.target=java.lang.String[]\ urls(java.lang.String)
+numComments=3
