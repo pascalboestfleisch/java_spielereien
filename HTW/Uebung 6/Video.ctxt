@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Video
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Video.\r\n\ \r\n\ @author\ pascal\ boestfleisch,\ emma\ ebel\r\n\ @version\ Uebung\ 09\r\n
+comment1.params=artikelNr\ bestand\ preis\ titel\ spieldauer\ jahr
+comment1.target=Video(int,\ int,\ double,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ das\ Objekt\ Video\r\n\ @param\ artikelNr\ ist\ die\ vom\ User\ eingegebene\ Artikelnummer\ f\u00FCr\ dieses\ Objekt\r\n\ @param\ bestand\ ist\ der\ vom\ User\ eingegebene\ Bestand\r\n\ @param\ preis\ ist\ der\ vom\ User\ eingegebene\ Preis\r\n\ @param\ titel\ ist\ der\ vom\ User\ eingegebene\ Titel\r\n\ @param\ spieldauer\ ist\ die\ Laenge\ des\ Videos\r\n\ @param\ jahr\ ist\ das\ Erscheinungsjahr\ des\ Videos\r\n
+comment2.params=
+comment2.target=int\ getSpieldauer()
+comment3.params=
+comment3.target=int\ getJahr()
+comment4.params=
+comment4.target=java.lang.String\ getBeschreibung()
+comment4.text=\r\n\ Gibt\ die\ Beschreibung\ des\ jeweiligen\ Objektes\ an\r\n\ @return\ Gibt\ den\ vom\ User\ eingegebenen\ Titel\ des\ Video-Objektes\ wieder\r\n
+comment5.params=
+comment5.target=java.lang.String\ getArtikelTyp()
+comment5.text=\r\n\ Bestimmung\ des\ Artikeltyps\ f\u00FCr\ dieses\ Objekt\r\n\ @return\ Gibt\ den\ Typen\ des\ Objektes\ wieder\r\n
+comment6.params=
+comment6.target=int\ hashCode()
+comment6.text=\r\n\ Eigener\ hashCode\ f\u00FCr\ das\ Objekt\ Video\r\n\ @return\ Gibt\ den\ hashCode\ f\u00FCr\ das\ jewilige\ Video-Objekt\ wieder\r\n
+comment7.params=obj
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\r\n\ Eigene\ equals\ f\u00FCr\ das\ Objekt\ Video\r\n\ Vergleicht\ Video-Objekte\ auf\ Gleichheit\r\n\ @return\ Je\ nachdem\ ob\ ein\ gleiches\ Objekt\ vorliegt\ oder\ nicht\r\n
+numComments=8

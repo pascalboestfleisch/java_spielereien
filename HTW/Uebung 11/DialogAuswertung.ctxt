@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=DialogAuswertung
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ DialogAuswertung.\r\n\ \r\n\ @author\ pascal\ boestfleisch,\ emma\ ebel\ \r\n\ @version\ Uebung\ 11\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Start\ des\ Dialoges\r\n
+comment2.params=
+comment2.target=DialogAuswertung()
+comment3.params=
+comment3.target=void\ start()
+comment3.text=\r\n\ Starten\ des\ Programms\ mit\ Exceptions\r\n\ Eine\ Schleife\ zum\ verwenden\ mehrerer\ Methoden\ ohne\ neustarten\ des\ Programms\r\n
+comment4.params=
+comment4.target=int\ usereingabeEinlesen()
+comment4.text=\r\n\ Anzeige\ aller\ Methoden\ auf\ dem\ Bildschirm\ und\ erlaubt\ es\ dem\ Benutzer\ einzusehen,\r\n\ welche\ Tasten\ welche\ Methoden\ ausfuehren\r\n\ @return\ eingabe\ gibt\ die\ ausgewaehlte\ Methode\ aus\r\n
+comment5.params=eingabe
+comment5.target=void\ ausfuehren(int)
+comment5.text=\r\n\ Die\ Methode,\ die\ es\ erlaubt\ die\ vorherig\ angelegten\ Methoden\ zu\ verwenden\r\n\ @param\ int\ eingabe\ sind\ die\ vom\ User\ eingegebenen\ Werte\r\n
+comment6.params=
+comment6.target=void\ locAuswertungKonstruktor()
+comment6.text=\r\n\ Gibt\ das\ Arbeitsverzeichnis\ wieder\ und\ erstellt\ ein\ file-Objekt,\ welches\ gleichzeitig\ durch\ eine\ \r\n\ andere\ Methode\ validiert\ wird\r\n
+comment7.params=
+comment7.target=void\ showLineCount()
+comment7.text=\r\n\ Fuehrt\ die\ Methode\ aus\ um\ die\ Zeilen\ des\ Codes\ in\ der\ Datei\ zu\ ermitteln\ und\ gibt\ anschlie\u00DFend\ den\ Namen\r\n\ der\ Datei\ und\ dessen\ LOC\ wieder\r\n
+comment8.params=
+comment8.target=void\ programmEnde()
+comment8.text=\r\n\ Beendet\ das\ Programm\r\n
+numComments=9
