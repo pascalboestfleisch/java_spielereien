@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=FileNotReadableException
-comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ FileNotReadableException.\r\n\ \r\n\ @author\ pascal\ boestfleisch,\ emma\ ebel\r\n\ @version\ Uebung\ 11\r\n
-comment1.params=
-comment1.target=FileNotReadableException()
-comment2.params=message
-comment2.target=FileNotReadableException(java.lang.String)
-numComments=3

@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=AhrefSuche
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=htmlText
-comment2.target=java.lang.String[]\ urls(java.lang.String)
-numComments=3

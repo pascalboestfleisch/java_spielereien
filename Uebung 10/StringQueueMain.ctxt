@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=StringQueueMain
-comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ StringQueueMain.\r\n\ \r\n\ @author\ pascal\ boestfleisch,\ emma\ ebel\ \r\n\ @version\ Uebung\ 10\r\n
-comment1.params=maxQueueSpots
-comment1.target=StringQueueMain(int)
-comment1.text=\r\n\ Konstruktor\ fuer\ das\ String-Warteschlangen-Array\r\n\ @param\ queueSpots\ User\ bestimmt\ die\ Groesse\ des\ Warteschlangen-Arrays\r\n
-numComments=2

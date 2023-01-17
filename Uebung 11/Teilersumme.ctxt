@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Teilersumme
-comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Teilersumme.\r\n\ \r\n\ @author\ pascal\ boestfleisch,\ emma\ ebel\r\n\ @version\ Uebung\ 11\r\n
-comment1.params=zahl
-comment1.target=long\ berechneTeilersumme(long)
-numComments=2
